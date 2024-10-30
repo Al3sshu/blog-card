@@ -25,6 +25,7 @@
     align-content: center;
     min-height: 100vh;
     height: 250px;
+    font-size: var(--paragraphSize);
     
  }
 
@@ -49,6 +50,7 @@
   .card-footer{
     padding: 10px;
     font-family: "Figtree", serif;
+    
     
  }
 
@@ -75,6 +77,7 @@
     font-weight: 500;
     font-style: normal;
    font-family: "Figtree", serif;
+  
   }
 
   .card-button{
