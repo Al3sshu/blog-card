@@ -7,8 +7,8 @@
     --Black: hsl(0, 0%, 7%);
 };
 
- body{
-    background-color: var(--Yellow);
+ .body{
+   background-color: var(--Yellow);
     margin: 0;
     display: flex;
     justify-content: center;
